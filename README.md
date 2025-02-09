@@ -1,15 +1,6 @@
 # Hi there, I'm Shivi! 👋
 
-I'm a Software Engineer currently in the pre-final year of my Graduation. I'm passionate about technology and its creative applications. 
-
-## 🔧 Tech Stack
-
-- Languages: Golang, C, C++, Java, JavaScript, TypeScript
-- Libraries and Tools: Node, Express, React, Next, Gorilla/Mux, Gin, Git, Docker, Postman, Bash, Zsh
-- UI/UX: TailwindCSS, shadcn/ui, DaisyUI, semanticUI, materialU, Figma, Canva, Sketch
-- Databases: MySQL, PostgreSQL, MongoDB
-- ORM: Prisma, Mongoose, GORM , Sequelize
-- Misc: Zod, Cloudinary, Stripe, Vercel, AWS
+I'm a Software Developer at takeUforward(TUF), an Ed-Tech startup where we build and deploy production-ready code daily. Currently in my final year of graduation, I’m passionate about building scalable software solutions and exploring new technologies.
 
 ## 🚀 Projects
 
