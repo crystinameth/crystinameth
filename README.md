@@ -1,6 +1,6 @@
 # Hi there, I'm Shivi! 👋
 
-I'm a Software Developer at takeUforward(TUF), an Ed-Tech startup where we build and deploy production-ready code daily. Currently in my final year of graduation, I’m passionate about building scalable software solutions and exploring new technologies.
+I'm a Software Developer at takeUforward (TUF), an Ed-Tech startup where I contribute to building and deploying scalable, production-ready software solutions on a daily basis. Currently in my final year of a B.Tech in Computer Science & Engineering, I’m deeply passionate about creating impactful tech products and continuously exploring new technologies to enhance system performance, reliability, and user experience.
 
 ## 🚀 Projects
 
